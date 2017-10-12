@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\81e44c16e1662d92c85c840ca18e805831c76c56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61896adcf059c6b5fb2ef63c85f8c1f872f13f9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\e84a464aae9bb631ff8a0d0697b7aa5ebc909fc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa1a333b39d786e7bb37159bc0b5206e90856feb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\d8c7f6e6955a2c5ebbcefff5e706cb9eceb69a08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bd67a66530739830a43d0caaca5b3fddf95af43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\fcb77d236c5c27c9901063cf6cc922f3f7ff4d3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f61e7c0fe3c4af6522cce2c5c7b3d48689368293\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\2fce70bd6d960435f17ca15dd72ef0917bf92dcc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f740f5302038fcb69b76eb7aa2d21b051cf6fe20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\98a9562104fa6fd9ccbf8b23e97a9e1caf644cc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d91604032bf07f53686c7a9a6d78c662e7d600f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\9aee665e3f37d966c30e7f94482e363f7b6c54a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba718c14f5e01308407a7c308be5f16a0ad71c2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\19f155ec7984487638f6297bbf8780ede7225e82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_500ef2ac74fd358cc05af1ffa4b9be3d58395d8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\fb1245a7b23dcbc6ec8e50987165e553941d0026\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fdd5461c162558840496cbdbc835bf376381d0a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\c172d9b63a3a4c7bd84f132b9d475310cfc365c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a4e515ef782794b0e430cc4aea5e34d163e4e93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\9c9e54d0645e6b844685f20c2d71f8225c3b22b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a928ce4dde4c9b7ffb3cbd9027c62a06da4c2de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\301615ce61f24a5e59ccc526291738b25b958f01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7ca63a0d9d64b2906f9968fe0fcbc6c94cddd82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\d00358a1ad88ed519ec9d9c33c6a1598e9b5ebb6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4794ec1adba404aaf49c428b17e96c615b9060ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\6f2c528f309f5b20a917cdc075ec400b191b08fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a2b2a69a4ad48cabb187732a09058f0c4079968\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\5e646ec409912470c65a8dfab6f61d81147f14ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bb95ee3063dfc8b43fab4a4232171a59a84474c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\2694af4618342575bb4e12fc7d0b00e6605ac639\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3c931954a4f1eb714ad202f7d163979b80446f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\9a197cef58bd5c30c025f07ca69932daf915c2c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df052a993252aec7a4f4d76c301bf1acb28fb012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\271e85de86f28bf84de71257b747185477932926\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dcdcef6cca2d0f2a65e934caf598d134d15933e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\271e85de86f28bf84de71257b747185477932926\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ce5e4e27758c01ff885928642b93668133f46cb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\ce6a89a23723c9ad148d25045bed4c5e504a5451\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52c14efffc89dae5f5b9591ad65e19324a9c9835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\887d0b8b683eb468c720778bc711da0af55c6049\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbf1b8151cb4985cfb8aa57cc5bde84a768c4c4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\ce6a89a23723c9ad148d25045bed4c5e504a5451\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52c14efffc89dae5f5b9591ad65e19324a9c9835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\Desktop\whatsapp_update\Whatsapp\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_60b4dae18b2f924f20c63f4006acf54b74ca05dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\86496f6f36548a7102d102b31c131ddabe86555b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cf19163b6bcf60c99beadec4bf4476ac664ccc90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\02e49e5d26896091a76d320b252c4459c5fdfea7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95d0ecfa8e1403a433938c6b301e32cdf3881639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\86496f6f36548a7102d102b31c131ddabe86555b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f61b7ea7a11bbfe384cd5e3c1c6bc6e2affe3de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\cac3ebff71d3726dd348f5bc2de894de8bc8d647\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11693eb76e3b8ecea52e29b07e48056d767fdfe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c3490bea1e87cda6f02c4985099974dbaf488905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\ae1dc31bcdc8106e5ab993374fbfbd729a2fb22d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e45e16937daa2fb5de79baedc1e32e7e3fc7494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\afcafbcaa119deb32f5b3f2f6980c9620a92afeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0ab675730c128ba1ef3e86d4db5e8b971545c02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\2fce70bd6d960435f17ca15dd72ef0917bf92dcc\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ca80ffa2432d32a92670f55220db91b9f2ccbee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\c7eb2e544c7cb1c776c45475b9b4ae4b7eb43205\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_334a3aa4d0fe19b8045df503546ce670e593a955\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\5584331f613bf9ac1f6af0de3c06db0670341b06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd9bdbd073cdaf6a8c4073509f2532604ba3a8c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\62e8e88b8c7841397193b11cd4820697e103073d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8483295d8271904617ee95f4872b9cb8cf15e5ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\15ded4684d80272a4a55e9707503600a35472722\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b39ba37737ab5f903758b4a96e9def84181d9ed4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\9e0d1e009d3c15ee5070b67b5bbaeb15f8134466\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ee4affc85587119734ef32dd2df12ac78cc1281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\98a9562104fa6fd9ccbf8b23e97a9e1caf644cc0\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9910a9854bc9191827bc304185e200e99f2ffafd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\6f61c1fd367ff529c69b8dc0ef60393fe26ece98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c5fcefa9e40313fd40ded500327a186eb88a0cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\b87e4397fefd412312246ee44057ca3ded76f1fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85a6a46665a2062d1b92f8febddab999dbc9fea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\6e5cc59ceae0fb529186960146a8846d1505c348\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f617e22cf3cc9302b9f376a644fc3e6cc386c21f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\3dfed70e62675441938f7cc2765c15c5c88495ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_458101536ac71333cd3781363bd42e1d341f602f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\a5693de5aab7509dd280df41773c614a10e48896\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b0007bc38a832a6f8aac7546d5b2de3f66f2322\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\62d649b4d6dae002e32b5be114a84ded231dbe23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10b4ab81d2098dd47b2845dcb107f94be15705d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\dce1ea62114be240db29d8b6aa12a7089cbb97e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91711f0c30445b9a7746fe96172b5926e2170fed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\d00358a1ad88ed519ec9d9c33c6a1598e9b5ebb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_853b6fc633a8e1f103b6b603a62a3f6e670d8403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="349344578857a23b2108734487ba4245ab140194">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e21940cf7369216dc95638f3e8493f9f058e19c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_b68060d9e6e52e40fa86e367a4da2354f6afe40c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\8f7220735f289711ed36a58cdc494dbc292209d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40027f2ae849da2aeea14cba8d7d096d6963e0be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\2a81e93af6b1f5807e2d7b184299b980ee0ddec9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a7a975e4f580f6af8fa525520ae5629a28ac249\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\d00358a1ad88ed519ec9d9c33c6a1598e9b5ebb6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4794ec1adba404aaf49c428b17e96c615b9060ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\fcb77d236c5c27c9901063cf6cc922f3f7ff4d3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f61e7c0fe3c4af6522cce2c5c7b3d48689368293\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\7d664f001a078fbfb5d12de5b7a22beea5ce9806\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2eb3f9ea58a7388bb538639e68f4bed5be1b0b2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\2fce70bd6d960435f17ca15dd72ef0917bf92dcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f740f5302038fcb69b76eb7aa2d21b051cf6fe20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\Desktop\whatsapp_update\Whatsapp\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ca0b9af1031ae1451b0fee68b70729fbb772913">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d86e0ff638c0cf65bdd44510547f7beafdb10ffa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\8387d42bc72e3ddc7dff111dba5e434166209853\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a12eba32a4143be003f9f31ef14579eb2faed95f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\98a9562104fa6fd9ccbf8b23e97a9e1caf644cc0\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9910a9854bc9191827bc304185e200e99f2ffafd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\1d99165a3c562caf44685bb94b4a7b47ba5136a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a940461f67d0c9dd7294751eddbfeb60aa18e1b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\b3881e7ad2f967d4fb97f229cb8cbc94cd81edac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3960fd78635a966e8f7c40f43af090eb659b0c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\c850942fb9206430b5521d594c5e2a406ba90437\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a3b4ca40fdc9901bbe2243de20d748785ffe2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\32fbda42827513bf02a2438ec2f74dc05704a1eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a00f8dc20269530d77ce059746608429db654554">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5b73586e8e8dba10e56f515ae643c78db900959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\b8fb76aee6b351e283759052ff50e191f4d3f823\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86f5265cfb7db8d297d973a576596c0fff1a8e63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\4843c02b17bb44d5cccb28d38076ded77c4e4b1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca69cfeb7039440f9ab11d90eb8e19e0b61cad28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\2020076b5f4ee83c35c0efdd14ddb785530a21af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bef06d045c8ed2c6ff6cb7f590fa4aaf1cc4e1a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\7e2adedae0611a953b8012c0ff7ed2242436064f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fad99edffbbea341b5f68bae6d40eda23edd144b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\7a16c286153b2c0180d41a52f804ed0afdbbcf23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e31aae2375e03da927490d60ac72ed5c60fdaed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\154d1e3f4d9708b8b2302bc2fc612aa3a1e624b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1398513e2c3cc181d4739d05a2281f30186ec601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\0315605d5410603ea52a6489a2c099b4f358ce49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_500b32ae9a60fc6c3828bc1f0e912052b4e11d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\9c559d2b8188ed1b31de68ec73517925ef139864\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee052120a16eb5ae6d30c2d624e063fde7466247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\4dd6231cc7bc2d6e14baada3b9001dea954064df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9b0307c82a3f1b31ed18280f92e9662ca0ece79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\86496f6f36548a7102d102b31c131ddabe86555b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f61b7ea7a11bbfe384cd5e3c1c6bc6e2affe3de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\9a197cef58bd5c30c025f07ca69932daf915c2c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df052a993252aec7a4f4d76c301bf1acb28fb012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\271e85de86f28bf84de71257b747185477932926\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ce5e4e27758c01ff885928642b93668133f46cb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\271e85de86f28bf84de71257b747185477932926\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dcdcef6cca2d0f2a65e934caf598d134d15933e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\86496f6f36548a7102d102b31c131ddabe86555b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cf19163b6bcf60c99beadec4bf4476ac664ccc90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\ae19d2e9302ce399e10e08501f8e1dd88b4b63fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b18ede8b803d280acb8906da73ad36645116845\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c3490bea1e87cda6f02c4985099974dbaf488905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\fb1245a7b23dcbc6ec8e50987165e553941d0026\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fdd5461c162558840496cbdbc835bf376381d0a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\0315605d5410603ea52a6489a2c099b4f358ce49\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_5c85ed780fb6d8ef8d11be321d66a2a292bd152e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\83049557aa8414fe6a8ff316a1dec4a789bd9ba9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5579f67ebb8db28d28f0581e18be8d7b3fe3036f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fd651b2cbdc4fd795bfd43c48d83e02989c05e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\2fce70bd6d960435f17ca15dd72ef0917bf92dcc\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ca80ffa2432d32a92670f55220db91b9f2ccbee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\98a9562104fa6fd9ccbf8b23e97a9e1caf644cc0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d91604032bf07f53686c7a9a6d78c662e7d600f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\04949738155505016e93102c80ea7474354af1f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0918cda06804f953c6ae14710b2eb489255298f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\32fbda42827513bf02a2438ec2f74dc05704a1eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a00f8dc20269530d77ce059746608429db654554">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5b73586e8e8dba10e56f515ae643c78db900959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\0fb05cfa3acf787d25e0d1342abf1c7888bc8744\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e62a6de30a01540936e9ba6dc37e0e15b0c8a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\0daba03977f360b911f34b2781ccdb47f4578847\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70f18ebc88bbbe0481eb0e329c196b424954e962\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\6e5cc59ceae0fb529186960146a8846d1505c348\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f617e22cf3cc9302b9f376a644fc3e6cc386c21f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\d00358a1ad88ed519ec9d9c33c6a1598e9b5ebb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_853b6fc633a8e1f103b6b603a62a3f6e670d8403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\006e33141436a7f42e12733291bc959be0b77edf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cc0874c99d15a2a966110f8e71a67206bfed958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_90af93fc4debfdf83393b165d7f64d657ec73989\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOSHISatelite\.android\build-cache\4e63be10ac8249a89156cf6b83c1e61bc87e756c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\TOSHISatelite\Desktop\whatsapp_update - UI\Whatsapp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a764914056eea9b0cb0308b22e733a744f2efae\classes.dex" />
+    </item>
+
+</items>

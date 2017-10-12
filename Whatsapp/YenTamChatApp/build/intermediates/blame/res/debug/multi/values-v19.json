@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\TOSHISatelite\\Desktop\\whatsapp_update - UI\\Whatsapp\\YenTamChatApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\TOSHISatelite\\.android\\build-cache\\c7eb2e544c7cb1c776c45475b9b4ae4b7eb43205\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 76,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\TOSHISatelite\\Desktop\\YenTamChatApp\\Whatsapp\\YenTamChatApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\TOSHISatelite\\.android\\build-cache\\c7eb2e544c7cb1c776c45475b9b4ae4b7eb43205\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 76,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    }
+]
