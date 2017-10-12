@@ -1,2 +1,2 @@
 # YenTamChatApp
-# A simple Android Chat app which was built using Parse technology
+A simple Android Chat app which was built using Parse technology
